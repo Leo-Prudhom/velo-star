@@ -20,6 +20,7 @@ class App extends Component {
           <p style={afaire}>Suppr chemin, itinéraire jusqu'a une station lorsqu'une autre est choisie</p>
           <p style={afaire}>Gestion erreur refus geolocalisation</p>
           <p style={afaire}>Au clic sur mon chemin -> Display temps et distance ou sans le clic</p>
+          <p style={afaire}>Protect API KEYS in .env file</p>
           <p style={afaire}>Espace commentaire pour des suggestions d'amélioration de l'app, id et mail (optionnel) à renseigner</p>
         <BikeMap   />
       </div>
