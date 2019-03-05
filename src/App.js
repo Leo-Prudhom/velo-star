@@ -28,9 +28,7 @@ class App extends Component {
         <p style={afaire}>Espace commentaire pour des suggestions d'amélioration de l'app, id et mail (optionnel) à renseigner</p>*/}
         <About/>
         <BikeMap   />
-        <form>
-          <input></input>
-        </form>
+
       </div>
     );
   }

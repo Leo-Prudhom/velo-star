@@ -35,8 +35,7 @@ export default class About extends Component {
                  votre vélostar dans le centre, ou les emplacements peuvent êtres tous pris ? Grâce à cette application, vous avez 
                  accès aux données de chaque station vélo de Rennes Métropole, vous pouvez ainsi anticiper ces déplacements qui ne font que 
                  vous retarder. <br></br>
-                 Si vous avez des suggestions / recommendations / idées d'améliorations, n'hésitez pas à m'en faire part. Pour cela je mets un formulaire
-                  à votre disposition.
+                 Si vous avez des suggestions / recommendations / idées d'améliorations, n'hésitez pas à m'en faire part. Sur mon LinkedIn -> Léo Prud'hom
                 </p>
               </Col>
 
