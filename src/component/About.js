@@ -19,7 +19,7 @@ export default class About extends Component {
         </div>
         <img src={starBanner} style={{width:"100%"}} alt='velos à rennes' title="Bannière du site, vélos à rennes"/>
 
-        <div style={{background:"rgba(31, 48, 76, 0.8)", color:'white', paddingTop:'10%', paddingBottom:'10%'}}>
+        <div style={{background:"#eee", color:'#3a3a3a', paddingTop:'10%', paddingBottom:'10%'}}>
           <h1 style={{textAlign:'center'}}>À PROPOS DE CETTE APPLICATION</h1>
           <hr></hr>
 
